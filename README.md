@@ -1,1 +1,1 @@
-# Tweet_Mininig_Disaster_Management
+# Text Mining Tweets for Disaster Management
